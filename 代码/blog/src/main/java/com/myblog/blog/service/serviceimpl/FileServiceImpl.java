@@ -1,4 +1,4 @@
-package com.myblog.blog.service.serviceImpl;
+package com.myblog.blog.service.serviceimpl;
 
 import com.myblog.blog.service.FileService;
 import org.springframework.stereotype.Service;

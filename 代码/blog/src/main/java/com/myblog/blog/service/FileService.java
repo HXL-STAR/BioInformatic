@@ -1,5 +1,7 @@
 package com.myblog.blog.service;
 
+import java.io.File;
+
 /**
  * .
  *
@@ -11,4 +13,12 @@ package com.myblog.blog.service;
  */
 public interface FileService {
 
+    /**.
+     *  @author: 阿福
+     *  @Date: 2021/9/21 0021 14:56
+     *  @return File
+     *  @param
+     *  @Description: TODO
+     */
+    public File file();
 }

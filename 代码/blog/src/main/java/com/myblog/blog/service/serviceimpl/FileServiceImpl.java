@@ -3,6 +3,8 @@ package com.myblog.blog.service.serviceimpl;
 import com.myblog.blog.service.FileService;
 import org.springframework.stereotype.Service;
 
+import java.io.File;
+
 /**
  * .
  *
@@ -14,4 +16,11 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class FileServiceImpl implements FileService {
+
+    @Override
+    public File file() {
+        return null;
+    }
+
+
 }

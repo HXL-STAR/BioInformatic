@@ -1,8 +1,6 @@
 package com.myblog.blog.bean;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 /**
  * .
@@ -13,8 +11,8 @@ import lombok.NoArgsConstructor;
  * @date : 2021/9/20 0020 21:14
  * @description :TODO
  */
-@NoArgsConstructor
-@AllArgsConstructor
+//@NoArgsConstructor
+//@AllArgsConstructor
 @Data
 public class File {
 

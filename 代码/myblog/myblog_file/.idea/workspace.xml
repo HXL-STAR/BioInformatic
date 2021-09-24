@@ -90,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632481994528</updated>
-      <workItem from="1632482002875" duration="5883000" />
+      <workItem from="1632482002875" duration="6130000" />
     </task>
     <task id="LOCAL-00001" summary="个人博客项目_V1.0&#10;myblog_file模块&#10;&#10;1.Add 创建myblog_file模块&#10;2.Mod&#10;3.Fixed&#10;4.Del">
       <created>1632484711064</created>
@@ -128,10 +128,14 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="530" y="46" key="CommitChangelistDialog2" timestamp="1632484709671">
+    <state x="530" y="0" key="CommitChangelistDialog2" timestamp="1632489688652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="530" y="46" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1632484709671" />
+    <state x="530" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1632489688652" />
+    <state x="177" y="90" key="DiffContextDialog" timestamp="1632489658551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="177" y="90" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1632489658551" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1632488806597">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

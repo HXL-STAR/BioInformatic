@@ -1,5 +1,8 @@
 package org.blog.myblog_file.controller;
 
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
 /**
  * .
  *
@@ -8,7 +11,13 @@ package org.blog.myblog_file.controller;
  * @project: org.blog.myblog_file.controller myblog_file
  * @description :TODO
  */
+@Controller
 public class HelloController {
+
+    @RequestMapping("/index")
+    public String sayHello() {
+        return "index";
+    }
 
 
 }

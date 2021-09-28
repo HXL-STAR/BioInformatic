@@ -1,0 +1,4 @@
+C:\Users\Administrator\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/f/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/鏁版嵁缁撴瀯/鏁版嵁缁撴瀯-C/cmake-build-debug

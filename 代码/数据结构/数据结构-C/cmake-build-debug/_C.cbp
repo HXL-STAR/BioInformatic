@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="_C"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_C">
+				<Option output="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/_C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 _C"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_C/fast">
+				<Option output="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/_C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 _C/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/数组.c">
+			<Option target="_C"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/学习资料/BioInformatic/代码/数据结构/数据结构-C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

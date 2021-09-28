@@ -1,42 +1,16 @@
-"D:\Develop\C\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" F:\学习资料\BioInformatic\代码\C
--- The C compiler identification is GNU 6.3.0
+C:\Users\Administrator\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cygdrive/f/学习资料/BioInformatic/代码/C
+-- The C compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
--- Detecting C compiler ABI info - failed
--- Check for working C compiler: D:/Develop/C/Mingw/bin/gcc.exe
--- Check for working C compiler: D:/Develop/C/Mingw/bin/gcc.exe - broken
-CMake Error at D:/Develop/C/CLion 2021.2.1/bin/cmake/win/share/cmake-3.20/Modules/CMakeTestCCompiler.cmake:66 (message):
-  The C compiler
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
 
-    "D:/Develop/C/Mingw/bin/gcc.exe"
-
-  is not able to compile a simple test program.
-
-  It fails with the following output:
-
-    Change Dir: F:/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug/CMakeFiles/CMakeTmp
-    
-    Run Build Command(s):D:/Develop/C/Mingw/bin/mingw32-make.exe -f Makefile cmTC_4ee46/fast && D:/Develop/C/Mingw/bin/mingw32-make.exe  -f CMakeFiles\cmTC_4ee46.dir\build.make CMakeFiles/cmTC_4ee46.dir/build
-    mingw32-make.exe[1]: Entering directory 'F:/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug/CMakeFiles/CMakeTmp'
-    Building C object CMakeFiles/cmTC_4ee46.dir/testCCompiler.c.obj
-    D:\Develop\C\Mingw\bin\gcc.exe    -o CMakeFiles\cmTC_4ee46.dir\testCCompiler.c.obj -c F:\鐎涳缚绡勭挧鍕灐\BioInformatic\娴狅絿鐖淺C\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
-    gcc.exe: error: F:\鐎涳缚绡勭挧鍕灐\BioInformatic\娴狅絿鐖淺C\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
-    gcc.exe: fatal error: no input files
-    compilation terminated.
-    CMakeFiles\cmTC_4ee46.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_4ee46.dir/testCCompiler.c.obj' failed
-    mingw32-make.exe[1]: *** [CMakeFiles/cmTC_4ee46.dir/testCCompiler.c.obj] Error 1
-    mingw32-make.exe[1]: Leaving directory 'F:/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug/CMakeFiles/CMakeTmp'
-    Makefile:126: recipe for target 'cmTC_4ee46/fast' failed
-    mingw32-make.exe: *** [cmTC_4ee46/fast] Error 2
-    
-    
-
-  
-
-  CMake will not be able to correctly generate this project.
-Call Stack (most recent call first):
-  CMakeLists.txt:2 (project)
+    CMAKE_CXX_COMPILER
 
 
--- Configuring incomplete, errors occurred!
-See also "F:/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "F:/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug/CMakeFiles/CMakeError.log".
+-- Build files have been written to: /cygdrive/f/瀛︿範璧勬枡/BioInformatic/浠ｇ爜/C/cmake-build-debug
